@@ -2,9 +2,9 @@
 - I’m interested in gaming, coding, and art.
 - I’m currently learning Discrete and Data Structures. I am studying software
   engineering and psychology. 
-- I’m looking to collaborate on ...
 - How to reach me:
-email me, I guess?
+email me: 
+atesillos7@gmail.com
 
 <!---
 atesillos/atesillos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
