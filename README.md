@@ -2,12 +2,6 @@
 - I’m @atesillos
 - Languages I'm learning are: Java, Crystal, C, Assembly, and Scala.
 - I am studying software engineering and psychology at Loyola University Chicago! Go 'blers!
-- Comp classes I'm taking are:
-  - COMP 310 - Operating Systems
-  - COMP 330 - Software Engineering
-  - COMP 335 - Formal Methods Software Engineering
-  - COMP 371 - Programming Languages
-  - COMP 398 - Independent Study
 
 - How to reach me:
   - atesillos7@gmail.com
