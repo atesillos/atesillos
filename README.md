@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 - I’m @atesillos
-- Languages I'm learning are: Java, Crystal, C, Assembly, and Scala.
+- Languages I'm learning are: Java, Crystal, C, and Scala.
 - I am studying software engineering and psychology at Loyola University Chicago! Go 'blers!
 
 - How to reach me:
